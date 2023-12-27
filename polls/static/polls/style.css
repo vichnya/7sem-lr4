@@ -1,0 +1,9 @@
+li a {
+    color: green;
+    font-size: 2rem
+}
+
+body {
+    background: white url("https://img.freepik.com/free-photo/peach-acrylic-painting-texture-background_53876-98374.jpg?w=996&t=st=1703533416~exp=1703534016~hmac=3762a66f2fc6f94f1ed7719da2855d8d3fe62ce69c6e5247eba9a98101aec2f0") no-repeat;
+    background-size: cover;
+}
